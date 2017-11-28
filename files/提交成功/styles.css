@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u580 {
+#u572 {
   position:fixed;
   left:50%;
   margin-left:-187.5px;
@@ -21,7 +21,7 @@
   height:45px;
   overflow:hidden;
 }
-#u580_state0 {
+#u572_state0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -34,14 +34,14 @@
   background-color:rgba(70, 76, 91, 1);
   background-image:none;
 }
-#u580_state0_content {
+#u572_state0_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u581_div {
+#u573_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -60,7 +60,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u581 {
+#u573 {
   position:absolute;
   left:0px;
   top:0px;
@@ -72,14 +72,14 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u582 {
+#u574 {
   position:absolute;
   left:2px;
   top:13px;
   width:371px;
   word-wrap:break-word;
 }
-#u583_div {
+#u575_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -95,7 +95,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u583 {
+#u575 {
   position:absolute;
   left:0px;
   top:0px;
@@ -104,7 +104,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u583_div.mouseDown {
+#u575_div.mouseDown {
   position:absolute;
   left:0px;
   top:0px;
@@ -120,30 +120,30 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u583.mouseDown {
+#u575.mouseDown {
 }
-#u584 {
+#u576 {
   position:absolute;
   left:20px;
   top:14px;
   width:78px;
   word-wrap:break-word;
 }
-#u585_img {
+#u577_img {
   position:absolute;
   left:0px;
   top:0px;
   width:99px;
   height:99px;
 }
-#u585 {
+#u577 {
   position:absolute;
   left:138px;
   top:150px;
   width:99px;
   height:99px;
 }
-#u586 {
+#u578 {
   position:absolute;
   left:2px;
   top:42px;
@@ -151,7 +151,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u587_div {
+#u579_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -169,7 +169,7 @@
   box-shadow:none;
   color:#387BB9;
 }
-#u587 {
+#u579 {
   position:absolute;
   left:138px;
   top:359px;
@@ -177,14 +177,14 @@
   height:39px;
   color:#387BB9;
 }
-#u588 {
+#u580 {
   position:absolute;
   left:2px;
   top:12px;
   width:96px;
   word-wrap:break-word;
 }
-#u589_div {
+#u581_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -201,7 +201,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u589 {
+#u581 {
   position:absolute;
   left:21px;
   top:266px;
@@ -211,7 +211,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u590 {
+#u582 {
   position:absolute;
   left:2px;
   top:2px;
