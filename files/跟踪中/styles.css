@@ -1,0 +1,276 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(243, 243, 243, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1485px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u828_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1348px;
+  height:898px;
+}
+#u828 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1348px;
+  height:898px;
+}
+#u829 {
+  position:absolute;
+  left:2px;
+  top:441px;
+  width:1344px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u830_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:75px;
+}
+#u830 {
+  position:absolute;
+  left:165px;
+  top:156px;
+  width:60px;
+  height:75px;
+}
+#u831 {
+  position:absolute;
+  left:2px;
+  top:30px;
+  width:56px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u832_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:68px;
+  height:60px;
+}
+#u832 {
+  position:absolute;
+  left:208px;
+  top:371px;
+  width:68px;
+  height:60px;
+}
+#u833 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:64px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u834_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:62px;
+  height:66px;
+}
+#u834 {
+  position:absolute;
+  left:395px;
+  top:256px;
+  width:62px;
+  height:66px;
+}
+#u835 {
+  position:absolute;
+  left:2px;
+  top:25px;
+  width:58px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u836_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:88px;
+}
+#u836 {
+  position:absolute;
+  left:1054px;
+  top:190px;
+  width:59px;
+  height:88px;
+}
+#u837 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:55px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u838_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:71px;
+}
+#u838 {
+  position:absolute;
+  left:589px;
+  top:207px;
+  width:66px;
+  height:71px;
+}
+#u839 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:62px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u840_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:64px;
+  height:76px;
+}
+#u840 {
+  position:absolute;
+  left:806px;
+  top:219px;
+  width:64px;
+  height:76px;
+}
+#u841 {
+  position:absolute;
+  left:2px;
+  top:30px;
+  width:60px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u842_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:73px;
+}
+#u842 {
+  position:absolute;
+  left:908px;
+  top:110px;
+  width:59px;
+  height:73px;
+}
+#u843 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:55px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u844_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u844 {
+  position:absolute;
+  left:819px;
+  top:478px;
+  width:15px;
+  height:15px;
+}
+#u845 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:11px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u846_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1485px;
+  height:170px;
+  background:inherit;
+  background-color:rgba(243, 243, 243, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(243, 243, 243, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u846 {
+  position:absolute;
+  left:0px;
+  top:782px;
+  width:1485px;
+  height:170px;
+}
+#u847 {
+  position:absolute;
+  left:2px;
+  top:77px;
+  width:1481px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u848_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:18px;
+  height:18px;
+}
+#u848 {
+  position:absolute;
+  left:1305px;
+  top:544px;
+  width:18px;
+  height:18px;
+}
+#u849 {
+  position:absolute;
+  left:2px;
+  top:1px;
+  width:14px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u850 {
+  position:absolute;
+  left:1282px;
+  top:525px;
+  width:56px;
+  height:56px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
